@@ -1,0 +1,24 @@
+{
+  "name": "dapptutorial01",
+  "version": "1.0.0",
+  "description": "decentralized application on ethereum (tutorial)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeecode/DappTutorial01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeecode/DappTutorial01/issues"
+  },
+  "homepage": "https://github.com/mdeecode/DappTutorial01#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.18",
+    "web3": "^0.20.1"
+  }
+}
